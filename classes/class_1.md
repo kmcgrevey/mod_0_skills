@@ -4,7 +4,7 @@
 
 **Class:**
 
-- Asianc
+- Asian
 
 **Attributes:**
 

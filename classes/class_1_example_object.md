@@ -1,10 +1,7 @@
 # **Classes, Objects, Attributes and Methods**
 
-## **Restaurant**
 
-**Object Name:**
-
-- JadeGarden
+**Object Name:**  JadeGarden
 
 **Attributes:**
 
@@ -19,7 +16,7 @@
 ==> 4
 - countDragons (decorTrinkets['dragons'])
 ==> 5
-- hasToGo (hasTakeAway == true)
-==> true
+- changeTakeAwayStatus (hasTakeAway == false)
+==> now indicates false
 - changeCuisine (substitute asianType["Chinese"])
 ==> Thai

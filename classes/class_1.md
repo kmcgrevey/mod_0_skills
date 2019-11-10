@@ -1,10 +1,7 @@
 # **Classes, Objects, Attributes and Methods**
 
-## **Restaurant**
 
-**Class:**
-
-- Asian
+**Class:**  AsianRestaurant
 
 **Attributes:**
 
@@ -17,5 +14,5 @@
 
 - cleanBathroom (improves qualityRating by adding to it)
 - countDragons (scans decorTrinkets to return number of dragons displayed)
-- hasToGo (if hasTakeAway is true then yes they do)
+- changeTakeAwayStatus (change hasTakeAway status from true(yes) to false(no) when the service is not available)
 - changeCuisine (substitute asianType from Chinese to Thai)

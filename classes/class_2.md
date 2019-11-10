@@ -1,15 +1,12 @@
 # **Classes, Objects, Attributes and Methods**
 
-## **Restaurant**
 
-**Class:**
-
-- FineDining
+**Class:**  FineDiningRestaurant
 
 **Attributes:**
 
-- location (string)
-- menuItems (string)
+- locations (array)
+- menuItems (array)
 - qualityRating (float)
 - valetService (boolean)
 
@@ -18,4 +15,4 @@
 - determineLocation (search location to find city)
 - haveLobster (scans menuItems for lobster listing)
 - callValet (if valetService is offered then contact)
-- dailySpecial (substitute or add listing to menuItems)
+- updateDailySpecial (substitute or add listing to menuItems)
